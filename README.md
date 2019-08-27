@@ -1,3 +1,1 @@
-# Hello World
-
-测试。
+This is my GitHub page.
